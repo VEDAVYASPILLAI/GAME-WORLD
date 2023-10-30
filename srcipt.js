@@ -1,0 +1,1 @@
+alert("Some games in this app is highly recommended for laptop but don't worry some games are also able play in other devices but a computer or laptop with headphones is highly recommended for the best quality and experience and a update soon")
